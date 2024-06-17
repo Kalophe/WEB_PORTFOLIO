@@ -1,2 +1,3 @@
 # WEB_PORTFOLIO
-This is my Web Portfolio
+
+As Im studying computer sciences, I wanted to learn a bit about web dev, currently still working on that project.
